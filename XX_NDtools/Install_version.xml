@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root scr="">
+  <version>4.10</version>
+  <data>2020-04-18</data>
+  <head>全新的安装方式：在线下载更新,抛弃原有的离线安装包方式#应网友建议,特别制作的全版本工具组,理论上支持2009以上版本#剔除了部分内部工具,只保留一些基本工具#如想本工具栏添加脚本,请将脚本和图标发送至邮箱738746223@qq.com
+  </head>
+  <site path="scripts" name="Startup.zip" size="6388L"></site>
+  <site path="scripts" name="NDtools_01.zip" size="329116L"></site>
+  <site path="scripts" name="NDtools_02.zip" size="364802L"></site>
+  <site path="stdplugs" name="stdplugs.zip" size="923L"></site>
+  <site path="UI_ln" name="UI_ln.zip" size="739124L"></site>
+  <site path="scripts" name="4.35_uninstall.dat" size="7869L"></site>
+</Root>
