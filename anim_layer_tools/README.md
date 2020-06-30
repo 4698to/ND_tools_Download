@@ -15,7 +15,7 @@
 
 帧对齐: 选中多个物体,自动以第一个选中物体帧数为准,自动删除多余帧
 
-![](https://gitee.com/to4698/ND_tools/raw/master/img/20190827200728.png)
+
 
 [B战视频](https://www.bilibili.com/video/av64428818/)
 
@@ -40,7 +40,7 @@ D:\Program Files\Autodesk\3ds Max 20xx\scripts\Startup\Startup_lic.mse
 
 ================
 
-工具不免费，激活码 10 块钱。一次激活,永久使用,免费更新。
+
 
 仅英文版 3ds Max 可用
 
